@@ -1,13 +1,13 @@
 {
   "main.css": "/wp-rest-react/static/css/main.11d832ee.chunk.css",
-  "main.js": "/wp-rest-react/static/js/main.dc1f3875.chunk.js",
-  "main.js.map": "/wp-rest-react/static/js/main.dc1f3875.chunk.js.map",
+  "main.js": "/wp-rest-react/static/js/main.92b87328.chunk.js",
+  "main.js.map": "/wp-rest-react/static/js/main.92b87328.chunk.js.map",
   "runtime~main.js": "/wp-rest-react/static/js/runtime~main.837d68d1.js",
   "runtime~main.js.map": "/wp-rest-react/static/js/runtime~main.837d68d1.js.map",
-  "static/js/2.73694160.chunk.js": "/wp-rest-react/static/js/2.73694160.chunk.js",
-  "static/js/2.73694160.chunk.js.map": "/wp-rest-react/static/js/2.73694160.chunk.js.map",
+  "static/js/2.303f85d8.chunk.js": "/wp-rest-react/static/js/2.303f85d8.chunk.js",
+  "static/js/2.303f85d8.chunk.js.map": "/wp-rest-react/static/js/2.303f85d8.chunk.js.map",
   "index.html": "/wp-rest-react/index.html",
-  "precache-manifest.17970669379a104b877ee5821315da7c.js": "/wp-rest-react/precache-manifest.17970669379a104b877ee5821315da7c.js",
+  "precache-manifest.4cf8834b4a6a95d9193fbf14a0975ede.js": "/wp-rest-react/precache-manifest.4cf8834b4a6a95d9193fbf14a0975ede.js",
   "service-worker.js": "/wp-rest-react/service-worker.js",
   "static/css/main.11d832ee.chunk.css.map": "/wp-rest-react/static/css/main.11d832ee.chunk.css.map"
 }
